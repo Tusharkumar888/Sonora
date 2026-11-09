@@ -1,0 +1,14 @@
+.gradle/
+.gradle-user-home/
+.android-sdk/
+local.properties
+*.iml
+.idea/
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.jks
+*.keystore
+.wrapper-bootstrap/
